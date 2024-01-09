@@ -85,7 +85,7 @@ main {
 /*main-section-styles*/
 /*section-one*/
 .section-one {
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("/images/Vectorrr.png");
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("./images/Vectorrr.png");
     display: flex;
     margin-top: 100px;
     gap: 150px;
